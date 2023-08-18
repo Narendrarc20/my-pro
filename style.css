@@ -1,0 +1,29 @@
+h1{
+    background-color: aquamarine;
+    text-align: center;
+}
+
+p{
+    color: blueviolet;
+    padding: 5px;
+
+}
+
+body > h2{
+    background-color: rgb(212, 184, 163);
+
+}
+
+body h3{
+    padding: 10px;
+    background-color: blueviolet;
+}
+
+body{
+    background-color: dimgrey;
+}
+
+body > p {
+    padding: 9px;
+    
+}
